@@ -13,5 +13,5 @@ management:
   endpoint:
     shutdown:
       enabled: true
-      access: unrestricted
+      
 
